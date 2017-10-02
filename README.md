@@ -9,6 +9,6 @@ This project will probably not be of great interest for the public.
 v 0.1
 -----
 
--Did the first part of the tutorial
+-Did the first part of the tutorial  
 -Copied the code for the second part.  
 -Had to fix an issue related to the jumbotron to get it to display as intended locally.  
