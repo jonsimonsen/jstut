@@ -12,3 +12,20 @@ v 0.1
 -Did the first part of the tutorial  
 -Copied the code for the second part.  
 -Had to fix an issue related to the jumbotron to get it to display as intended locally.  
+
+Resources
+---------
+
+css  
+-Web-safe fonts: https://www.cssfontstack.com/  
+-Other box-model: * { box-sizing: border-box;}  
+-Font api: https://fonts.google.com (fonts can also be added locally or relative to the html presumably). Link in html or font-face in css.  
+
+js  
+-JS documentation(string): https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/prototype  
+-Use === or !== in comparisons.  
+-functions can be defined as constants: const fName = (arg1, arg2...) => {fcode...};  
+-variables defined as: let vName = vexpression;  
+-Is a certain value present in an array: array.includes(value);  
+-this seems to be somewhat equivalent to Python's self.  
+-Browser compatibility: caniuse.com , Babel(conversion)  
